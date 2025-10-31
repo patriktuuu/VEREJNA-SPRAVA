@@ -1,3 +1,4 @@
+
 mindmap
   root((Veřejná správa v ČR))
 
@@ -52,4 +53,4 @@ mindmap
           "Notářská komora"
           "Komora daňových poradců"
         "Vysoké školy"
-          "Akademick
+          "Akademicke
